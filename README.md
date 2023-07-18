@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Geekigen
+- 👋 Hi, I’m Caleb Kigen
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning dart and kotlin 
 - 💞️ I’m looking to collaborate on IOS ,WEB and ANDROID based projects
