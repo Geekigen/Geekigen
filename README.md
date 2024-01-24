@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caleb Kigen
-- 👀 I’m interested in software developement
-- Good i web based systems,python,laravel,Vue js and react
+- 👀 I’m a software engineer at spin mobile Nairobi 
+- Good with web based systems,python,laravel,Vue js and react
 - 🌱 I’m currently learning dart and kotlin 
 - 💞️ I’m looking to collaborate on IOS ,WEB and ANDROID based projects
 - 📫 How to reach me Call +254719485369
