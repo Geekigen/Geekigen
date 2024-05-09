@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning dart and kotlin 
 - 💞️ I’m looking to collaborate on IOS ,WEB and ANDROID based projects
 - 📫 How to reach me Call +254719485369
+- check out my contributions below
 
 <!---
 Geekigen/Geekigen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
