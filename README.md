@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **any opensource project**
 
-- 👨‍💻 All of my projects are available at [link soon](link soon)
-
 - 📝 I regularly write articles on [tech](tech stuff)
 
 - 💬 Ask me about **Laravel React Django,python Vue**
