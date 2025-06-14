@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ERP Systems and  ecommerce as fullstack dev
 
-- 🌱 I’m currently learning **Kotlin and react**
+- 🌱 I’m currently learning **Kotlin **
 
 - 👯 I’m looking to collaborate on **any opensource project**
 
