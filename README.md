@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekigen&label=Profile%20views&color=0e75b6&style=flat" alt="geekigen" /> </p>
 
-- 🔭 I’m currently working on [Shylock system](https://github.com/Geekigen/shy)
+- 🔭 I’m currently working on ERP Systems and  ecommerce as fullstack dev
 
 - 🌱 I’m currently learning **Kotlin and react**
 
